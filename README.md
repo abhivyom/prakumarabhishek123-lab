@@ -1,30 +1,38 @@
-# Frontend Developer Profile
+# Software Engineer Profile
 
-## Abhishek Prakumar
+## Abhishek Kumar
 
 ### Professional Summary
-I am a 3rd year B.Tech CSE student with a passion for frontend development. I thrive on creating beautiful, functional, and user-friendly web applications. My skills include proficiency in HTML, CSS, and JavaScript, along with experience in various modern frameworks and libraries.
+I am a 3rd year B.Tech CSE(AIML) student with a passion for frontend development. I thrive on creating beautiful, functional, and user-friendly web applications. My skills include proficiency in HTML, CSS, and JavaScript,along with experience in various modern frameworks and libraries.
 
 ### Skills
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: React, Angular, Vue.js
-- **Tools & Technologies**: Git, Webpack, RESTful APIs, AJAX, Bootstrap, Sass
-- **Design**: Responsive design, UI/UX principles, Figma, Adobe XD
+**Programming** : JavaScript, TypeScript, Python, HTML5, CSS3
+**Frontend** : React.js, Next.js, Tailwind CSS
+**Design** : Responsive design, UI/UX principles, Figma, Adobe XD
+**Mobile Development** : React Native, Cross-Platform App Development
+**Backend** : Node.js, REST APIs, API Integration
+**Database** : PostgreSQL, Supabase, SQL
+**Tools** : Git, GitHub, VS Code, Postman
+**Deployment**: Vercel, Hostinger
+**Core Competencies**: Full-Stack Development, Responsive Design, Authentication, Debugging, Testing, Performance Optimization
 
-### Experience
-- **Internship at XYZ Company**  
-  - Developed component-based applications using React.
-  - Collaborated with designers to create responsive layouts and user interfaces.
-  - Implemented RESTful services to fetch data in applications.
-
+### Experience 
+  **Software Engineer** | **Oceanwaveweb**
+- Develop and maintain modern web and mobile applications using React.js, Next.js, and React Native.
+- Build responsive websites and cross-platform mobile applications for Android and iOS.
+- Work on full-stack development, including frontend, backend, REST APIs, and database integration.
+- Implement secure authentication, third-party API integrations, and database management.
+- Collaborate with development teams using Git and GitHub.
+- Debug, test, optimize, and deploy web and mobile applications.
+- Contribute to scalable, user-friendly, and performance-optimized software solutions.
 - **Freelance Projects**  
   - Created several dynamic web pages for local businesses and personal projects.
 
 ### Education
-- **B.Tech in Computer Science and Engineering**  
-  - [Your University Name]  
-  - Expected Graduation: 202X
+- **B.Tech in Computer Science(AIML) and Engineering**  
+  - [Sanskriti University Mathura (U.P)]  
+  - Expected Graduation: 2027
 
 ### Contact Information
-- Email: abhishek@example.com
-- LinkedIn: linkedin.com/in/abhishekprakumar
+- Email: prakumarabhishek123@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abhishek-kumar-002928299/
