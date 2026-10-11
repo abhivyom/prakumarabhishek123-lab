@@ -3,7 +3,7 @@
 ## Abhishek Kumar
 
 ### Professional Summary
-I am a 3rd year B.Tech CSE(AIML) student with a passion for frontend development. I thrive on creating beautiful, functional, and user-friendly web applications. My skills include proficiency in HTML, CSS, and JavaScript,along with experience in various modern frameworks and libraries.
+I am a Last (4th) year B.Tech CSE(AIML) student with a passion for frontend development. I thrive on creating beautiful, functional, and user-friendly web applications. My skills include proficiency in HTML, CSS, and JavaScript,along with experience in various modern frameworks and libraries.
 
 ### Skills
 **Programming** : JavaScript, TypeScript, Python, HTML5, CSS3
